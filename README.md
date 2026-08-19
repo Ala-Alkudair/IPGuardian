@@ -1,4 +1,4 @@
-# Secure DevOps Log Analyzer
+# IPGuardian Secure DevOps Log Analyzer
 
 أداة بسيطة بلغة Python لتحليل ملفات **Log** الخاصة بمحاولات تسجيل الدخول، واكتشاف عناوين IP المشبوهة بناءً على تكرار محاولات الدخول الفاشلة، مبنية كمشروع تطبيقي لتعلم **Git / GitHub Workflow** و **DevOps Fundamentals**.
 
